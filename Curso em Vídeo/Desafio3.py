@@ -1,0 +1,5 @@
+print('Calcuraldora quebrada que só soma!')
+print('digite dois numeros:')
+numero1 = int(input('Primeiro Numero: '))
+numero2 = int(input('Segundo Numero: '))
+print('A soma é ', numero1 + numero2)
