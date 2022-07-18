@@ -1,2 +1,2 @@
-# Starting-From-Scratch-Python
+# Python-Starting-From-Scratch
 My Python Learnings and Exercises
