@@ -1,2 +1,5 @@
-nome = input('Qual seu nome? ')
-print('Olá ' + nome + '! Prazer em te conhecer!')
+print('Por favor digite a data do seu aniversário abaixo!')
+dia = input('Dia = ')
+mes = input('Mês = ')
+ano = input('Ano = ')
+print('Você nasceu no dia ' + dia + ' de ' + mes + ' de ' + ano + '. Correto?')

@@ -1,5 +1,6 @@
-print('Calcuraldora quebrada que só soma!')
+print('Calcuraldora quebrada que só soma(só que agora certo)!')
 print('digite dois numeros:')
-numero1 = int(input('Primeiro Numero: '))
-numero2 = int(input('Segundo Numero: '))
-print('A soma é ', numero1 + numero2)
+n1 = int(input('Digite um número '))
+n2 = int(input('Digite outro número '))
+s = n1 + n2
+print('A soma entre {} e {} vale {}!'.format(n1, n2, s))
